@@ -1,0 +1,72 @@
+[
+  {
+    "id": "BB001",
+    "nama_warisan_budaya": "Cingkreman",
+    "provinsi": "Bali",
+    "kabupaten_target": "Kabupaten Badung",
+    "cakupan_wilayah": "Kabupaten Badung; Kabupaten Bangli; Kabupaten Buleleng; Kabupaten Gianyar; Kabupaten Jembrana; Kabupaten Karangasem; Kabupaten Klungkung; Kabupaten Tabanan; Kota Denpasar",
+    "domain": "Adat Istiadat Masyarakat, Ritus, dan Perayaan-Perayaan",
+    "tahun_penetapan": 2024,
+    "status_lokasi": "Cakupan lintas kabupaten, termasuk Badung"
+  },
+  {
+    "id": "BB002",
+    "nama_warisan_budaya": "Aksara Bali",
+    "provinsi": "Bali",
+    "kabupaten_target": "Kabupaten Badung",
+    "cakupan_wilayah": "Kabupaten Badung; Kabupaten Bangli; Kabupaten Buleleng; Kabupaten Gianyar; Kabupaten Jembrana; Kabupaten Karangasem; Kabupaten Klungkung; Kabupaten Tabanan; Kota Denpasar",
+    "domain": "Tradisi dan Ekspresi Lisan",
+    "tahun_penetapan": 2024,
+    "status_lokasi": "Cakupan lintas kabupaten, termasuk Badung"
+  },
+  {
+    "id": "BB003",
+    "nama_warisan_budaya": "Lawar Bali",
+    "provinsi": "Bali",
+    "kabupaten_target": "Kabupaten Badung",
+    "cakupan_wilayah": "Kabupaten Badung; Kabupaten Bangli; Kabupaten Buleleng; Kabupaten Gianyar; Kabupaten Jembrana; Kabupaten Karangasem; Kabupaten Klungkung; Kabupaten Tabanan; Kota Denpasar",
+    "domain": "Kemahiran dan Kerajinan Tradisional",
+    "tahun_penetapan": 2024,
+    "status_lokasi": "Cakupan lintas kabupaten, termasuk Badung"
+  },
+  {
+    "id": "BB004",
+    "nama_warisan_budaya": "Usada Bali",
+    "provinsi": "Bali",
+    "kabupaten_target": "Kabupaten Badung",
+    "cakupan_wilayah": "Kabupaten Badung; Kabupaten Bangli; Kabupaten Buleleng; Kabupaten Gianyar; Kabupaten Jembrana; Kabupaten Karangasem; Kabupaten Klungkung; Kabupaten Tabanan; Kota Denpasar",
+    "domain": "Pengetahuan dan Kebiasaan Perilaku Mengenai Alam dan Semesta",
+    "tahun_penetapan": 2024,
+    "status_lokasi": "Cakupan lintas kabupaten, termasuk Badung"
+  },
+  {
+    "id": "BB005",
+    "nama_warisan_budaya": "Layangan Bali",
+    "provinsi": "Bali",
+    "kabupaten_target": "Kabupaten Badung",
+    "cakupan_wilayah": "Kabupaten Badung; Kabupaten Bangli; Kabupaten Buleleng; Kabupaten Gianyar; Kabupaten Jembrana; Kabupaten Karangasem; Kabupaten Klungkung; Kabupaten Tabanan; Kota Denpasar",
+    "domain": "Kemahiran dan Kerajinan Tradisional",
+    "tahun_penetapan": 2024,
+    "status_lokasi": "Cakupan lintas kabupaten, termasuk Badung"
+  },
+  {
+    "id": "BB006",
+    "nama_warisan_budaya": "Tradisi Perang Untek",
+    "provinsi": "Bali",
+    "kabupaten_target": "Kabupaten Badung",
+    "cakupan_wilayah": "Kabupaten Badung",
+    "domain": "Adat Istiadat Masyarakat, Ritus, dan Perayaan-Perayaan",
+    "tahun_penetapan": 2024,
+    "status_lokasi": "Tercantum khusus untuk Kabupaten Badung"
+  },
+  {
+    "id": "BB007",
+    "nama_warisan_budaya": "Baris Kraras",
+    "provinsi": "Bali",
+    "kabupaten_target": "Kabupaten Badung",
+    "cakupan_wilayah": "Kabupaten Badung",
+    "domain": "Adat Istiadat Masyarakat, Ritus, dan Perayaan-Perayaan",
+    "tahun_penetapan": 2024,
+    "status_lokasi": "Tercantum khusus untuk Kabupaten Badung"
+  }
+]
